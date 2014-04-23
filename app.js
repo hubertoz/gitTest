@@ -2,6 +2,7 @@ Ext.application({
     requires: ['Ext.container.Viewport'],
     name: 'AM',
     appFolder: 'app',    
+
     controllers: [
                   'Users'
               ],              
@@ -15,3 +16,5 @@ Ext.application({
               }
 
 });
+
+//test zmian STEP 2
