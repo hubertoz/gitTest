@@ -17,4 +17,4 @@ Ext.application({
 
 });
 
-//test zmian STEP 2
+//test zmian STEP 2 - edycja AAAA
