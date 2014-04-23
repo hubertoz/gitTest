@@ -15,10 +15,3 @@ Ext.application({
               }
 
 });
-
-<<<<<<< HEAD
-//terst
-=======
-//STEP 3 edycji pliku  - branchowanie 
-
->>>>>>> 328c8162c70fec17dcf98aa2c61ffaa44e1ad29c
