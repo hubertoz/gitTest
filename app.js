@@ -16,4 +16,4 @@ Ext.application({
 
 });
 
-//STEP 2 edycji pliku - SuperZmiany branch
+//STEP 3 edycji pliku  - branchowanie 
