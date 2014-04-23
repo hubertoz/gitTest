@@ -16,4 +16,4 @@ Ext.application({
 
 });
 
-//STEP 2 edycji pliku - SuperZmiany branch
+//STEP 4 edycji pliku
